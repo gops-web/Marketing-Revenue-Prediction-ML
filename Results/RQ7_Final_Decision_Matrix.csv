@@ -1,0 +1,6 @@
+Criterion,Linear Regression,Decision Tree,Random Forest,XGBoost
+Predictive Performance,2,3,4,5
+Interpretability,5,4,3,2
+Robustness,3,3,4,4
+Computational Efficiency,5,4,3,2
+Deployment Suitability,5,4,4,3
